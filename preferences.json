@@ -1,0 +1,111 @@
+[
+    {
+        "title": "Walksnail Avatar",
+        "downloads": [
+            "24.png",
+            "36.png"
+        ],
+        "preview": {
+            "file": "36.png",
+            "display": {
+                "width": 1920,
+                "heigh": 1080,
+                "cols": 53,
+                "rows": 20
+            },
+            "char": {
+                "width": 36,
+                "heigh": 54
+            }
+        },
+        "path": "Walksnail",
+        "softwares": [
+            {
+                "title": "Ardupilot",
+                "fcid": "ARDU",
+                "path": "Ardupilot",
+                "fonts": [
+                    "Blinder",
+                    "Conthrax",
+                    "Europa",
+                    "Europa_night",
+                    "Hemi",
+                    "Nexus",
+                    "Original",
+                    "Sphere"
+                ]
+            },
+            {
+                "title": "Ardupilot (custom)",
+                "fcid": "ARDU",
+                "path": "Ardupilot_custom",
+                "fonts": [
+                    "Blinder",
+                    "Conthrax",
+                    "Europa",
+                    "Hemi",
+                    "Nexus",
+                    "Sphere"
+                ]
+            },
+            {
+                "title": "Betaflight",
+                "fcid": "BTFL",
+                "path": "Betaflight",
+                "fonts": [
+                    "Blinder",
+                    "Conthrax",
+                    "Europa",
+                    "Hemi",
+                    "Nexus",
+                    "Scribble",
+                    "Sphere"
+                ]
+            },
+            {
+                "title": "Betaflight (old)",
+                "fcid": "BTFL",
+                "path": "Betaflight_old",
+                "fonts": [
+                    "Blinder",
+                    "Conthrax",
+                    "Hemi",
+                    "Nexus",
+                    "Original",
+                    "Sphere",
+                    "Super Sneaky"
+                ]
+            },
+            {
+                "title": "Inav",
+                "fcid": "INAV",
+                "path": "Inav",
+                "fonts": [
+                    "Batman",
+                    "Blinder",
+                    "Conthrax",
+                    "Europa",
+                    "Hallow",
+                    "Hemi",
+                    "Hemi_night",
+                    "Nexus",
+                    "Original",
+                    "Scribble",
+                    "Sphere"
+                ]
+            },
+            {
+                "title": "Quicksilver",
+                "fcid": "QUIC",
+                "path": "Quicksilver",
+                "fonts": [
+                    "Europa",
+                    "Hemi",
+                    "Nexus",
+                    "Original",
+                    "Sphere"
+                ]
+            }
+        ]
+    }
+]

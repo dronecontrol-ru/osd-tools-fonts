@@ -1,0 +1,18 @@
+{
+    "title": "Walksnail Avatar",
+    "downloads": ["24.png", "36.png"],
+    "preview": {
+        "file": "36.png",
+        "display": {
+            "width": 1920,
+            "heigh": 1080,
+            "cols": 53,
+            "rows": 20
+        },
+        "char": {
+            "width": 36,
+            "heigh": 54
+        }
+        
+    }
+}
