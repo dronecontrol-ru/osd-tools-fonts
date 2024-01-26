@@ -1,5 +1,32 @@
 [
     {
+        "title": "DJI HD Canvas",
+        "downloads": [],
+        "preview": {
+            "file": "36.png",
+            "display": {
+                "width": 1920,
+                "height": 1080,
+                "cols": 53,
+                "rows": 20
+            },
+            "char": {
+                "width": 36,
+                "height": 54
+            }
+        },
+        "path": "DJI",
+        "softwares": [
+            {
+                "title": "Betaflight",
+                "path": "Betaflight",
+                "fonts": [
+                    "Original"
+                ]
+            }
+        ]
+    },
+    {
         "title": "Walksnail Avatar",
         "downloads": [
             "24.png",
